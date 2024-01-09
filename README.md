@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rens Schipper</h1>
 <h3 align="center">I'm an allround Data-professional</h3>
 
+![reel_gify](highlight_reel.gif)
+
 - 🌱 I’m currently learning **SKlearn, Geopandas, Japanese**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-e0j8.onrender.com/home#](https://portfolio-website-e0j8.onrender.com/home#)
